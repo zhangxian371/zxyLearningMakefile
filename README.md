@@ -1,1 +1,2 @@
 # zxyLearningMakefile
+1.0 直接使用assert函数去构建makefile的测试
